@@ -5,7 +5,6 @@ const Home = () => {
     <HomeStyle>
         <section className="home image">
             <h1>Página Home</h1>
-
         </section>
     </HomeStyle>
     )
